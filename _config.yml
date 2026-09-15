@@ -31,10 +31,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL
-  googlescholar    : # URL - add your Google Scholar profile
+  googlescholar    : "https://scholar.google.com/citations?user=irEx5nAAAAAJ&hl=zh-TW"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : # URL - add your ORCID
+  orcid            : "0009-0004-8043-5027"
   semantic         : # URL
   ssrn             : "https://ssrn.com/abstract=7303791"
   pubmed           : # URL
