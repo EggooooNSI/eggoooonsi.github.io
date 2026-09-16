@@ -22,7 +22,7 @@ I am an undergraduate student in **BEng(Hons) in Biomedical Engineering** at **T
 
 **The Chinese University of Hong Kong**, Hong Kong, China (09/2023 – 09/2027)
 - BEng(Hons) in Biomedical Engineering
-- Cumulative GPA: 3.645/4.000 | Major GPA: 3.776/4.000
+- Cumulative GPA: 3.645/4.000, Major GPA: 3.776/4.000
 
 ## Academic Experience
 
